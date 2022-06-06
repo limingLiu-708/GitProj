@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("another branch commit");
         System.out.println("master add one line");
         System.out.println("another branch add one line too");
+        // 远程库更新
     }
 
 
