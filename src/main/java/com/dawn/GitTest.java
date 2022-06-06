@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("Hello, idea and git");
         System.out.println("another branch commit");
         System.out.println("master add one line");
+        System.out.println("another branch add one line too");
     }
 
 
