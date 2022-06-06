@@ -6,7 +6,7 @@ public class GitTest {
 
     public static void main(String[] args) {
         System.out.println("Hello, idea and git");
-
+        System.out.println("another branch commit");
 
     }
 
